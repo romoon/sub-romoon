@@ -23,3 +23,11 @@ Template:twentyfourteen
 .site-footer {
   background-color: #9a9a9a;
 }
+
+/* text-transform */
+.entry-title,
+.cat-links,
+.entry-meta.tag-links a,
+.featured-content.entry-title {
+  text-transform: none;
+}

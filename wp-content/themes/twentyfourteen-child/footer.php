@@ -17,7 +17,7 @@
 			<?php get_sidebar( 'footer' ); ?>
 
 			<div class="site-info">
-				&copy;<?php echo date("Y"); ?><a href="<?php echo home_url('/'); ?>">romoon</a>All rights reserved.<br />
+				&copy;<?php echo date("Y"); ?><a href="<?php echo home_url('/'); ?>"> romoon</a> All rights reserved.<br />
 				<?php do_action( 'twentyfourteen_credits' ); ?>
 				<?php
 				if ( function_exists( 'the_privacy_policy_link' ) ) {
