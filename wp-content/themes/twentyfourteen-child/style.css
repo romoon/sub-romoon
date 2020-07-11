@@ -31,3 +31,9 @@ Template:twentyfourteen
 .featured-content.entry-title {
   text-transform: none;
 }
+
+/* breadcrumbs */
+.breadcrumbs {
+  margin: 16px 0 16px 250px;
+  font-size:13px;
+}
