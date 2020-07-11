@@ -1,0 +1,19 @@
+/*
+Theme Name: Modern Child
+Template: modern
+*/
+
+@@import url("../modern/style.css");
+
+/* text */
+.accent-color {
+  color: #009185;
+}
+
+.submit {
+  background-color: #009185;
+}
+
+.menu-toggle {
+  background-color: #009185;
+}
