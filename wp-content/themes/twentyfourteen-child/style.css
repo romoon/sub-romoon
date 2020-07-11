@@ -37,3 +37,8 @@ Template:twentyfourteen
   margin: 16px 0 16px 250px;
   font-size:13px;
 }
+
+/* Google Fonts */
+.alpha-head {
+  font-family: 'Gloria Hallelujah', cursive;
+}
