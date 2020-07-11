@@ -8,6 +8,7 @@ Template: modern
 /* text */
 .accent-color {
   color: #009185;
+  color: var(--color_accent);
 }
 
 .submit {
